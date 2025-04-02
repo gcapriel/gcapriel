@@ -9,8 +9,9 @@ Soy un **desarrollador de software** con experiencia en una variedad de tecnolog
 A continuación, te muestro las empresas en las que he trabajado:
 
 - **SPIN**  
-  *Desarrollador .NET*  
+  *Desarrollador Backend .NET*  
   - Desarrollo y mantenimiento de aplicaciones empresariales en **.NET**.
+  -  Participación en el equipo de frontend usando react native.
   - Implementación de test unitarios para asegurar la integridad del proyecto.
   - Implementación de soluciones escalables y eficientes para optimizar procesos internos.
 
