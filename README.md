@@ -47,6 +47,16 @@ Soy experto en diversas tecnologías, principalmente en el ecosistema de **.NET*
 
 ---
 
+
+## 🛠 **Habilidades blandas**
+
+- Escucha activa
+- Trabajo en equipo
+- Curiosidad y proactividad
+- Ética y responsabilidad
+- Optimismo
+
+---
 ## 📞 **Contacto**
 
 Si deseas conocer más sobre mi trabajo o colaborar en algún proyecto, no dudes en contactarme:
