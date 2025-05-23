@@ -1,6 +1,7 @@
 # ¡Hola! Soy **Gerardo Capriel Gabriel** 👨‍💻
 
-Soy un **desarrollador de software** con experiencia en una variedad de tecnologías, pero mi especialidad está en el desarrollo de aplicaciones utilizando **.NET**. A lo largo de mi carrera he trabajado en diversos proyectos y empresas, donde he adquirido un conjunto amplio de habilidades técnicas.
+Soy un **desarrollador de software** especializado en .NET, con experiencia en diversos proyectos y tecnologías. Mis habilidades técnicas y enfoque en las mejores prácticas me permiten crear aplicaciones escalables y mantenibles que aportan valor real a los equipos y ayudan a cumplir los objetivos de la empresa. Trabajo de forma colaborativa en equipos multidisciplinarios y procesos ágiles, siempre orientado a entregar soluciones eficientes y alineadas con las necesidades del negocio.
+
 
 ---
 
