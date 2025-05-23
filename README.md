@@ -9,11 +9,15 @@ Soy un **desarrollador de software** con experiencia en una variedad de tecnolog
 A continuación, te muestro las empresas en las que he trabajado:
 
 - **SPIN**  
-  *Desarrollador Backend .NET*  
-  - Desarrollo y mantenimiento de aplicaciones empresariales en **.NET**.
-  -  Participación en el equipo de frontend usando react native.
-  - Implementación de test unitarios para asegurar la integridad del proyecto.
-  - Implementación de soluciones escalables y eficientes para optimizar procesos internos.
+  *Desarrollador Backend .NET*
+  
+  - Desarrollador de aplicaciones .NET con experiencia en soluciones escalables y mantenibles.
+  - Enfoque en la integración de código y adherencia a las mejores prácticas de desarrollo.
+  - Participación activa en planificación, refinamiento y ceremonias de Scrum.
+  - Colaboración en equipos multidisciplinarios, incluyendo frontend, DevOps y equipos de otras areas.
+  - Uso de herramientas como Auth0, git, redis, dataDog, Api first.
+  - Implementación de pruebas unitarias para garantizar la calidad del software.
+  - Generar valor tangible a través de los desarrollos realizados.
 
 - **COTEMAR**  
   *Desarrollador Full-Stack*  
